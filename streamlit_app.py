@@ -1,8 +1,8 @@
 import streamlit as st
 from PIL import Image
 
-logo_png = Image.open("static/logo.png")
-favicon_png = Image.open("static/favicon.png")
+logo_png = Image.open("./rightank/static/logo.png")
+favicon_png = Image.open(".rightank/static/favicon.png")
 
 st.set_page_config(
     page_title = "Rightank",
