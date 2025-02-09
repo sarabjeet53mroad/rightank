@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write('Hello !!!')
+st.image("assets/logo.png", caption="Rightank")
