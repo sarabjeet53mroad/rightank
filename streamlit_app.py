@@ -6,4 +6,5 @@ st.set_page_config(
     layout="wide",
 )
 
+st.write('Rightank - Model Marketplace')
 st.image("assets/logo.png")
